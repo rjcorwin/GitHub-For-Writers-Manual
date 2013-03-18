@@ -32,3 +32,8 @@ Diff comments are line specific so with a paragraph that has each sentence on a 
 - http://gist.io/
 - http://bl.ocks.org/
 - http://prose.io/
+
+
+# Ispiration
+
+- http://www.wired.com/wiredenterprise/2012/02/github-revisited/
