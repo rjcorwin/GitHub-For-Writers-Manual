@@ -17,7 +17,7 @@ The difference you'll see if you check the raw source file is that first paragra
 This is useful especially when comparing revisions, otherwise known as looking at the diff (differnce) between the saves.  Here's are some examples of fixing the same typo in each of these paragraphs.  See how much better the parapgraph with line breaks looks?
 
 I can spot the change in the second paragraph on the first paragraph without having to scroll left or right.
-![I can spot the change in the second paragraph on the first paragraph without having to scroll left or right.](line-per-sentence--diff.png)
+![I can spot the change in the second paragraph on the first paragraph without having to scroll left or right.](line-per-sentence--diff.png "I can spot the change in the second paragraph on the first paragraph without having to scroll left or right.")
 
 The first paragraph scrolls to the right so far!
 ![The first paragraph scrolls to the right so far!](line-per-sentence--diff-runon.png)
@@ -29,6 +29,6 @@ Diff comments are line specific so with a paragraph that has each sentence on a 
 
 # Interesting tools for writing/viewing the writings in a git repository
 
-http://gist.io/
-http://bl.ocks.org/
-http://prose.io/
+- http://gist.io/
+- http://bl.ocks.org/
+- http://prose.io/
