@@ -28,7 +28,7 @@ Except where otherwise [noted](http://creativecommons.org/policies#license), con
 - [R.J. Steinert](https://github.com/rjsteinert) of [Open Learning Exchange](https://github.com/open-learning-exchange)
 
 
-# Ispiration
+# Inspiration
 
 - http://www.wired.com/wiredenterprise/2012/02/github-revisited/
 
