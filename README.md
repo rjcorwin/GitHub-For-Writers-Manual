@@ -13,7 +13,7 @@ This manual is a collection of guides for writing beautiful documentation hosted
 
 # License
 
-[![Creative Commons Attribution 3.0 License](//i.creativecommons.org/l/by/3.0/88x31.png)](http://creativecommons.org/licenses/by/3.0/)
+[![Creative Commons Attribution 3.0 License](https://i.creativecommons.org/l/by/3.0/88x31.png)](http://creativecommons.org/licenses/by/3.0/)
 
 Except where otherwise [noted](http://creativecommons.org/policies#license), content in [this Manual](https://github.com/open-learning-exchange/GitHub-For-Writers-Manual) is licensed under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
 
