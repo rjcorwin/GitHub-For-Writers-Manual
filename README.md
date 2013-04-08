@@ -1,4 +1,4 @@
-GitHub for Writers, the Manual
+# GitHub for Writers, the Manual
 
 This manual is a collection of guides for writing beautiful documentation hosted on GitHub.  
 
