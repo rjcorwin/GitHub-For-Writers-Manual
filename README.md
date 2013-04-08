@@ -3,11 +3,12 @@ GitHub for Writers, the Manual
 This manual is a collection of guides for writing beautiful documentation hosted on GitHub.  
 
 # The Guides
+
 - Getting started with your first README.md
 - Writing locally, publishing globally
--- for Mac
--- for Windows
--- on the Linux command line
+  - for Mac
+  - for Windows
+  - on the command line
 - Multiple Pages: The power of README.md and how to link them together
 - Strategies for collaborative writing
 - [Useful guides for writing beautiful Markdown](useful-guides-for-writing-beautiful-markdown)
